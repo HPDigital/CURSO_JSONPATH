@@ -1,6 +1,6 @@
 # Curso JSON y JSON Path
 
-Un curso completo sobre JSON (JavaScript Object Notation) y JSON Path, enfocado en la manipulación y consulta avanzada de datos JSON.
+Un curso basico sobre JSON y JSON Path, enfocado en la manipulación y consulta  de datos JSON.
 
 ## Descripción
 
