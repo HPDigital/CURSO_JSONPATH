@@ -1,0 +1,53 @@
+# Requisitos del Sistema
+- Navegador web moderno (Chrome, Firefox, Safari o Edge)
+- Node.js >= 14.0.0 (para ejemplos prácticos)
+- Visual Studio Code o editor similar
+
+# Herramientas Necesarias
+- Postman o Insomnia (para pruebas de API)
+- JSONPath Online Evaluator (https://jsonpath.com/)
+- Git (para clonar el repositorio)
+
+# Extensiones de VSCode Recomendadas
+- JSON Viewer
+- JSON Path
+- REST Client
+- JSON Tools
+- Prettier (para formateo de JSON)
+
+# Conocimientos Previos Requeridos
+- Conceptos básicos de programación
+- Entendimiento básico de:
+  * Estructuras de datos
+  * APIs REST
+  * HTTP básico
+  * JavaScript (nivel básico)
+
+# Recursos Online Necesarios
+- Cuenta en GitHub (para acceder al repositorio)
+- Acceso a Internet para:
+  * Documentación online
+  * Herramientas web de JSON
+  * APIs de prueba
+
+# Configuración del Entorno
+1. Editor de código instalado y configurado
+2. Postman o herramienta similar instalada
+3. Node.js instalado (para ejercicios prácticos)
+4. Git configurado para clonar el repositorio
+
+# APIs de Prueba Recomendadas
+- JSONPlaceholder (https://jsonplaceholder.typicode.com/)
+- Random User API (https://randomuser.me/)
+- OpenWeatherMap API (requiere registro gratuito)
+
+# Recursos de Aprendizaje Adicionales
+- Documentación oficial de JSON (json.org)
+- Especificación de JSON Path
+- MDN Web Docs - Trabajando con JSON
+- Stack Overflow (para consultas específicas)
+
+# Notas de Compatibilidad
+- Los ejemplos funcionan en todos los navegadores modernos
+- Las herramientas son multiplataforma (Windows/Linux/MacOS)
+- Se recomienda conexión a Internet estable 
